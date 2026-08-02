@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" font-family="sans-serif">
-  <polyline fill="none" stroke="#e63946" stroke-width="2.5" points="12.0,23.1 80.4,87.6 148.9,148.0 217.3,120.0 285.8,78.1 354.2,15.8 422.7,36.6 491.1,36.6 559.6,36.6 628.0,12.0" />
-  <text x="628" y="16" text-anchor="end" font-size="14" fill="#e63946">1,937,000</text>
+  <polyline fill="none" stroke="#e63946" stroke-width="2.5" points="12.0,23.1 73.6,87.6 135.2,148.0 196.8,120.0 258.4,78.1 320.0,15.8 381.6,36.6 443.2,36.6 504.8,36.6 566.4,12.0 628.0,66.8" />
+  <text x="628" y="16" text-anchor="end" font-size="14" fill="#e63946">1,908,000</text>
 </svg>
